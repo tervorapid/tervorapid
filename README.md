@@ -12,16 +12,16 @@
 ## 🛠️ Skills
 <dl>
 <dt>Python</dt>
-<dd>Basic understanding – Currently learning fundamental programming concepts and simple scripting in Python.</dd>
+<dd>Basic understanding.</dd>
 
 <dt>Seismic Survey</dt>
-<dd>Limited knowledge of SEGY – Gaining familiarity with SEGY file formats for seismic data processing.</dd>
+<dd>Limited knowledge of SEGY.</dd>
 
 <dt>GIS (Geographic Information Systems)</dt>
-<dd>Able to install and navigate GIS software – Can set up and use GIS tools like QGIS and ArcGIS for basic geospatial data tasks.</dd>
+<dd>Able to install and navigate GIS software.</dd>
 
 <dt>General Mapping Tools</dt>
-<dd>No experience – Starting to explore GMT (Generic Mapping Tools) standards through translation efforts.</dd>
+<dd>Starting to explore GMT.</dd>
 </dl>
 
 ## 🔭 Current Projects
